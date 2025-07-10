@@ -24,6 +24,7 @@
 - https://github.com/NoMoreFood/WinPriv WinPriv is a utility that can enable privileges and virtually alter registry settings within a target process, amongst other things.
 - https://github.com/Stamir36/ModernNotify A modern control panel for Microsoft Windows that allows you to connect to an Android device, view its status, share buffer, control volume, music and much more.
 - https://github.com/Chamberlain91/Heirloom A C# framework that provides utilities for 2D drawing, audio, basic algorithms, and more. Useful for quick prototyping and implementing games and other graphical applications. Heirloom currently is supported on Windows, Linux, and macOS.
+- https://github.com/lucasb-eyer/pydensecrf Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
 - https://github.com/Dulappy/aero-window-manager A configuration utility for modifying Windows 10's DWM metrics
 - https://github.com/medialab/minet A webmining CLI tool & library for python.
 - https://github.com/clips/MBSP Memory-based shallow parser for Python www.clips.ua.ac.be/pages/MBSP
