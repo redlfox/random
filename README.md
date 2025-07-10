@@ -26,3 +26,6 @@
 - https://github.com/Chamberlain91/Heirloom A C# framework that provides utilities for 2D drawing, audio, basic algorithms, and more. Useful for quick prototyping and implementing games and other graphical applications. Heirloom currently is supported on Windows, Linux, and macOS.
 - https://github.com/Dulappy/aero-window-manager A configuration utility for modifying Windows 10's DWM metrics
 - https://github.com/medialab/minet A webmining CLI tool & library for python.
+- https://github.com/clips/MBSP Memory-based shallow parser for Python www.clips.ua.ac.be/pages/MBSP
+- https://github.com/H1DDENADM1N/CapsWriter-Offline 离线语音输入简/繁体、中译英、字幕转录；在线多译多、云剪贴板等等 （选用SenseVoice模型 支持中粤英日韩多语种）
+- https://github.com/HaujetZhao/CapsWriter-Offline CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
