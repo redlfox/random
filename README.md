@@ -17,3 +17,6 @@
 - https://github.com/sparvu/data-recorders A set of CLI utilities designed to record top essential performance metrics
 - https://github.com/3XAY/PC-Utilities A portable app that allows you to perform maintenance and benchmark Windows 10/11 machines!
 - https://github.com/swengkr/EasyRenamer file renaming software for Windows.
+- https://github.com/cloudfoundry Cloud Foundry Foundation active projects https://bosh.io/docs/
+- https://github.com/abhimanyusirohi/ThumbFish A simple utility for Chemists that integrates with Windows Explorer and provides Thumbnail, Preview, Search and other useful features for structure files.
+- https://github.com/NullArray/WinBins-Plus Repo to store Windows PE's and Utilities for easy access.
