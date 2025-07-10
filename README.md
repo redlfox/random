@@ -25,3 +25,4 @@
 - https://github.com/Stamir36/ModernNotify A modern control panel for Microsoft Windows that allows you to connect to an Android device, view its status, share buffer, control volume, music and much more.
 - https://github.com/Chamberlain91/Heirloom A C# framework that provides utilities for 2D drawing, audio, basic algorithms, and more. Useful for quick prototyping and implementing games and other graphical applications. Heirloom currently is supported on Windows, Linux, and macOS.
 - https://github.com/Dulappy/aero-window-manager A configuration utility for modifying Windows 10's DWM metrics
+- https://github.com/medialab/minet A webmining CLI tool & library for python.
