@@ -10,4 +10,5 @@
 - https://github.com/belowaverage-org/SuperLauncher 🚀 Super Launcher is an admin launcher that persists in the system tray that can launch programs quickly; optionally, with administrator rights, as another user, or both.
 - https://github.com/domferr/Linux-PowerToys Get Microsoft's PowerToys utilities and much more to Linux world!
 - https://github.com/Erruar/Saku-Overclock An awesome ryzen laptop overclock utility for those who want real performance!
+- https://github.com/HovKlan-DH/Commodore-Repair-Toolbox A Windows .NET Framework utility tool for Commodore hardware repairing and diagnosing
 
