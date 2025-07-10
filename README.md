@@ -14,4 +14,6 @@
 - https://github.com/IRedDragonICY/CompactJV A robust and efficient solution for compressing game or application folders. Utilizing the built-in compact.exe utility from Windows, our application offers a seamless and user-friendly modern interface for compression tasks.
 - https://github.com/ramensoftware/windhawk The customization marketplace for Windows programs: https://windhawk.net/
 - StartAllBack
-
+- https://github.com/sparvu/data-recorders A set of CLI utilities designed to record top essential performance metrics
+- https://github.com/3XAY/PC-Utilities A portable app that allows you to perform maintenance and benchmark Windows 10/11 machines!
+- https://github.com/swengkr/EasyRenamer file renaming software for Windows.
