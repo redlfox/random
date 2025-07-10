@@ -14,6 +14,7 @@
 - https://github.com/IRedDragonICY/CompactJV A robust and efficient solution for compressing game or application folders. Utilizing the built-in compact.exe utility from Windows, our application offers a seamless and user-friendly modern interface for compression tasks.
 - https://github.com/ramensoftware/windhawk The customization marketplace for Windows programs: https://windhawk.net/
 - StartAllBack
+- https://github.com/gibranlp/QARSlp Qtile Auto Ricing Theme
 - https://github.com/sparvu/data-recorders A set of CLI utilities designed to record top essential performance metrics
 - https://github.com/3XAY/PC-Utilities A portable app that allows you to perform maintenance and benchmark Windows 10/11 machines!
 - https://github.com/swengkr/EasyRenamer file renaming software for Windows.
@@ -23,3 +24,4 @@
 - https://github.com/NoMoreFood/WinPriv WinPriv is a utility that can enable privileges and virtually alter registry settings within a target process, amongst other things.
 - https://github.com/Stamir36/ModernNotify A modern control panel for Microsoft Windows that allows you to connect to an Android device, view its status, share buffer, control volume, music and much more.
 - https://github.com/Chamberlain91/Heirloom A C# framework that provides utilities for 2D drawing, audio, basic algorithms, and more. Useful for quick prototyping and implementing games and other graphical applications. Heirloom currently is supported on Windows, Linux, and macOS.
+- https://github.com/Dulappy/aero-window-manager A configuration utility for modifying Windows 10's DWM metrics
