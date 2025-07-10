@@ -9,4 +9,5 @@
 - https://github.com/belowaverage-org/SuperGrate 💾 Get moving with Super Grate; a free & open source Windows Profile Migration & Backup Utility. Super Grate is a GUI (Graphical User Interface) that assists Microsoft's USMT (User State Migration Utility) in performing remote migrations over a network connection.
 - https://github.com/belowaverage-org/SuperLauncher 🚀 Super Launcher is an admin launcher that persists in the system tray that can launch programs quickly; optionally, with administrator rights, as another user, or both.
 - https://github.com/domferr/Linux-PowerToys Get Microsoft's PowerToys utilities and much more to Linux world!
+- https://github.com/Erruar/Saku-Overclock An awesome ryzen laptop overclock utility for those who want real performance!
 
