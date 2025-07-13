@@ -6,3 +6,4 @@
 - https://github.com/damogranlabs/classy_blocks Python classes for easier creation of OpenFOAM's blockMesh dictionaries.
 - https://github.com/creaktive/pianolizer An easy-to-use toolkit for music exploration and visualization, an audio spectrum analyzer helping you turn sounds into piano notes
 ---
+- [tiagoeckhardt/farmbot-js: Javascriptwrapper for FarmBot's authentication and RPC instructions](https://github.com/tiagoeckhardt/farmbot-js)
