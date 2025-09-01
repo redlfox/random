@@ -10,3 +10,7 @@
 - [yint-tech/majora-open: Majora is a complete proxy IP construction cluster solution for proxy IP pool supply chain systems. If you have a large number of network devices (VPS servers, router devices, mobile devices, etc.) that can access the internet, you can use these network devices to easily build your proxy IP pool.](https://github.com/yint-tech/majora-open/tree/main)
 
 - https://nzdr.ru/biblio
+
+- [pinyin · GitHub Topics](https://github.com/topics/pinyin?l=c%2B%2B&o=desc&s=forks)
+- [Chaoses-Ib/IbEverythingExt: Everything 拼音搜索, ローマ字検索, wildcard, quick select extension](https://github.com/Chaoses-Ib/IbEverythingExt)
+- [Chaoses-Ib/ib-matcher: A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.](https://github.com/Chaoses-Ib/ib-matcher)
